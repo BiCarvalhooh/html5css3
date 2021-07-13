@@ -7,3 +7,7 @@ Aprenda HTML5, CSS3 e SEO de forma simples, pratica e objetiva desenvolvendo pas
 [Draw](https://app.diagrams.net/)
 ### Tipografia
 [Google fonts](https://fonts.google.com/)
+### Imagens
+[Icon-icons](https://icon-icons.com/)
+
+[Iconfinder](https://www.iconfinder.com/) 
